@@ -1,2 +1,2 @@
-# Grip_tast_2
+# Grip_task_2
 To explore Supervised machine learning
